@@ -1,13 +1,6 @@
 # STAT4011 Project1
 
-### data
-Lianjia_raw.csv: raw data scrapped from Lianjia website 
-
-Lianjia.csv: data after pre-processing; This file can be directly used for model fitting
-
-### code
-data_collection.ipynb: automatically scrap the data from Lianjia
-
+Responsible for data cleaning and data imputation in this project. Processed a high dimension raw dataset with 20000+ records scraped from Lianjia.com. Implement the imputation using KNN imputer.
 
 
 
